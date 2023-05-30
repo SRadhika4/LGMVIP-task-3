@@ -1,0 +1,135 @@
+#calcBody{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    height: 660px;
+    background-color: rgba(244, 132, 177, 0.942);
+    align-self: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 2px 4px 6px black;
+}
+
+.bigButton{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 65px;
+    width: 188px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 28px;
+    background-color: rgb(251, 219, 232);
+    border:none;
+    box-shadow: 1px 3px 5px black;
+
+}
+
+.Del{
+
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 65px;
+    width: 117px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 28px;
+    background-color: rgb(251, 219, 232);
+    border:none;
+    box-shadow: 1px 3px 5px black;
+}
+
+h1{
+    color: white;
+    font-family:cursive;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-self: center;
+    padding-left: 30px;
+    font-size: 40px;
+}
+
+#entry{
+    width: 280px;
+    height: 80px;
+    background-color: transparent;
+    margin: 5px;
+    border:none;
+    background-color: rgb(222, 87, 137);
+    border-radius: 5px;
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.678);
+}
+
+form .display{
+
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px 0;
+}
+
+form .display input{
+    text-align: right;
+    flex: 1;
+    font-size: 40px;
+    color: white;
+    padding-right: 10px;
+}
+
+
+
+.keys{
+    margin: 8px;
+    padding-top: 8px;
+    
+}
+
+.button{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 65px;
+    width: 65px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 30px;
+    background-color: rgb(251, 219, 232);
+    border:none;
+    box-shadow: 1px 3px 5px black;
+}
+
+.button:hover{
+    background-color: rgb(247, 243, 245);
+    scale: 1.08;
+  
+}
+
+.button:active{
+    scale:1.0;
+   
+
+}
+
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/005/449/876/original/mathematics-doodle-hand-drawn-school-set-vector.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-attachment: fixed;
+    align-items: center;
+}
+
+.bigButton:hover{
+    background-color: rgb(247, 243, 245);
+    scale: 1.08;
+}
+
+.Del:hover{
+    background-color: rgb(247, 243, 245);
+    scale: 1.08;
+
+}
+
+.bigButton:active{
+    scale:1.0;
+}
+
+.Del:active{
+    scale:1.0;
+}
