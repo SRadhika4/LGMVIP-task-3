@@ -2,4 +2,6 @@
 
 LetsGrowMore Virtual Internship Task 3
 
-webpage link: https://lgmvip-task-3-webapp.netlify.app/
+Simple online Calculator
+
+URL: https://lgmvip-task-3-webapp.netlify.app/
